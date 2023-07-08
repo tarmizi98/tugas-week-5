@@ -27,7 +27,7 @@ input[type="number"]:focus {
 }
 
 .signup .submit {
-  width: 100%;
+  width: 99%;
   background: black;
   color: aliceblue;
   height: 2.6em;
