@@ -1,3 +1,7 @@
+body {
+  background-image: url(bg.svg);
+}
+
 .signup {
   height: 100vh;
 }
@@ -27,7 +31,7 @@ input[type="number"]:focus {
 }
 
 .signup .submit {
-  width: 99%;
+  width: 100%;
   background: black;
   color: aliceblue;
   height: 2.6em;
